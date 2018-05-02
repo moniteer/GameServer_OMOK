@@ -1,0 +1,332 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.217072 ms
+유니티 IOCP서버에 접속 : 127.0.0.1:9001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 성공 패킷 받음
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.471694 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 0.709460 ms (FindLiveObjects: 0.044902 ms CreateObjectMapping: 0.026513 ms MarkObjects: 0.627780 ms  DeleteObjects: 0.009835 ms)
+
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e1)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\kimseongjoon\Desktop\오목서버-로비와룸 구현, 메모리릭구현\OMOKGAME_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.170031 ms
+유니티 IOCP서버에 접속 : 127.0.0.1:9001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+로그인 성공 패킷 받음
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.455871 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 517.
+Total: 0.821930 ms (FindLiveObjects: 0.056448 ms CreateObjectMapping: 0.027369 ms MarkObjects: 0.724427 ms  DeleteObjects: 0.012401 ms)
+
+방 생성 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 생성 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 생성 성공
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방생성 성공 확인버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 생성 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 생성 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+다른 방 이미 생성
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+이미 생성된 방 있음 확인버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 참가 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 참가 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 참가 성공
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방 참가한 다른 클라이언트 정보 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+상대방 아이디 받음 : tttt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방에 이미 존재하는 클라이언트 정보 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+상대방 아이디 받음 : dddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+세팅 직전 아이디 : dddd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+방참가 성공 확인버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+세팅 직전 아이디 : tttt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+게임 시작 버튼 누름
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+게임 시작 요청 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+게임 시작 성공 패킷 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+게임 시작 성공 패킷 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.799352 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.420373 ms (FindLiveObjects: 0.053883 ms CreateObjectMapping: 0.019243 ms MarkObjects: 0.328002 ms  DeleteObjects: 0.018816 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Controler.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.744614 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.573897 ms (FindLiveObjects: 0.074409 ms CreateObjectMapping: 0.017961 ms MarkObjects: 0.449880 ms  DeleteObjects: 0.030790 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Controler.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+흑돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+돌 세팅 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+좌표 패킷 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+받은 좌표 사용 (4, 14)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+흑돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+백돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IndexOutOfRangeException: Array index is out of range.
+  at GameLogic.CheckWhiteWin (Int32 _y, Int32 _x) [0x00000] in <filename unknown>:0 
+  at GameLogic.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+백돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+돌 세팅 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+좌표 패킷 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+받은 좌표 사용 (5, 12)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+백돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+생성불가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+흑돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+돌 세팅 패킷 발송
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+패킷 송신 완료
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+좌표 패킷 수신
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+받은 좌표 사용 (2, 14)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+흑돌 추가
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: c8c -> priority: 1 
+  Thread -> id: 1d24 -> priority: 1 
+  Thread -> id: 2620 -> priority: 1 
+  Thread -> id: 27e4 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 9f8 -> priority: 1 
+  Thread -> id: 229c -> priority: 1 
+  Thread -> id: 1aec -> priority: 1 
+  Thread -> id: 25fc -> priority: 1 

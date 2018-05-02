@@ -1,0 +1,103 @@
+﻿빌드 시작: 2018-04-15 오후 10:16:30
+     1>2 노드의 "C:\Users\kimseongjoon\Desktop\오목서버\OmokServer\OmokServer\OmokServer.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt CriticalSection.cpp ClientSession.cpp DataBaseSession.cpp Exception.cpp IOCPServer.cpp Log.cpp Main.cpp NetworkSession.cpp StackWalker.cpp WSASession.cpp
+         WSASession.cpp
+         StackWalker.cpp
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2065: 'c' : 선언되지 않은 식별자입니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2365: 'memset' : 재정의: 이전 정의는 '함수'입니다.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(94) : 'memset' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2078: 이니셜라이저가 너무 많습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(219): error C2143: 구문 오류 : ';'이(가) '.' 앞에 없습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(219): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C2365: 'RtlCaptureContext' : 재정의: 이전 정의는 '함수'입니다.
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(16934) : 'RtlCaptureContext' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C2440: '초기화 중' : 'int *'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(221): error C2059: 구문 오류 : '}'
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(221): error C2143: 구문 오류 : ';'이(가) '}' 앞에 없습니다.
+     1>StackWalker.cpp(1020): error C2059: 구문 오류 : 'else'
+     1>StackWalker.cpp(1021): error C2143: 구문 오류 : ';'이(가) '{' 앞에 없습니다.
+     1>StackWalker.cpp(1233): error C2601: 'StackWalker::myReadProcMem' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1249): error C2601: 'StackWalker::OnLoadModule' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1266): error C2601: 'StackWalker::OnCallstackEntry' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1290): error C2601: 'StackWalker::OnDbgHelpErr' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1297): error C2601: 'StackWalker::OnSymInit' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1305): error C2601: 'StackWalker::OnOutput' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1319): error C2601: 'StackWalker::SetOutputStream' : 지역 함수 정의가 잘못되었습니다.
+     1>StackWalker.cpp(1323): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+         NetworkSession.cpp
+         Main.cpp
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::ID_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::PW_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(416): warning C4351: 새로운 동작: 'My_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(419): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(430): warning C4351: 새로운 동작: 'Another_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+         Log.cpp
+     1>Log.cpp(20): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 'sprintf' 선언을 참조하십시오.
+         IOCPServer.cpp
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::ID_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::PW_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(416): warning C4351: 새로운 동작: 'My_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(419): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(430): warning C4351: 새로운 동작: 'Another_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>IOCPServer.cpp(21): error C2664: 'BOOL GetQueuedCompletionStatus(HANDLE,LPDWORD,PULONG_PTR,LPOVERLAPPED *,DWORD)' : 인수 3을(를) 'LPDWORD'에서 'PULONG_PTR'(으)로 변환할 수 없습니다.
+                 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+     1>IOCPServer.cpp(253): warning C4267: '초기화 중' : 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>IOCPServer.cpp(440): warning C4267: '초기화 중' : 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>IOCPServer.cpp(583): warning C4267: '초기화 중' : 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>IOCPServer.cpp(773): warning C4267: '인수' : 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Exception.cpp
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2065: 'c' : 선언되지 않은 식별자입니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2365: 'memset' : 재정의: 이전 정의는 '함수'입니다.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(94) : 'memset' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(218): error C2078: 이니셜라이저가 너무 많습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(219): error C2143: 구문 오류 : ';'이(가) '.' 앞에 없습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(219): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C2365: 'RtlCaptureContext' : 재정의: 이전 정의는 '함수'입니다.
+                 C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(16934) : 'RtlCaptureContext' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(220): error C2440: '초기화 중' : 'int *'에서 'int'(으)로 변환할 수 없습니다.
+                 이 변환이 가능한 컨텍스트가 없습니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(221): error C2059: 구문 오류 : '}'
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\StackWalker.h(221): error C2143: 구문 오류 : ';'이(가) '}' 앞에 없습니다.
+         DataBaseSession.cpp
+         ClientSession.cpp
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::ID_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(78): warning C4351: 새로운 동작: 'Login_Request::PW_value' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(81): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(82): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(416): warning C4351: 새로운 동작: 'My_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(419): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(430): warning C4351: 새로운 동작: 'Another_Chat::Chatting' 배열의 요소가 기본으로 초기화됩니다.
+     1>c:\users\kimseongjoon\desktop\오목서버\omokserver\omokserver\PacketSession.h(433): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' 선언을 참조하십시오.
+     1>ClientSession.cpp(29): warning C4267: 'return' : 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         CriticalSection.cpp
+         코드를 생성하고 있습니다...
+     1>"C:\Users\kimseongjoon\Desktop\오목서버\OmokServer\OmokServer\OmokServer.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:07.22

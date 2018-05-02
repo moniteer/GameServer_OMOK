@@ -1,0 +1,177 @@
+[ Server ]  TIME : 2018.05.02 - 02:48:39:812 -> SystemStatus Thread Create complete
+[ Server ]  TIME : 2018.05.02 - 02:48:39:812 -> Server Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:48:46:558 -> Client Connect Success, IP : 127.0.0.1, Port : 1369
+[ Server ]  TIME : 2018.05.02 - 02:48:46:558 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:48:46:558 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:16:036 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:49:16:036 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:16:066 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:49:16:066 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:43:505 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:49:43:505 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:43:508 -> 'Make Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:49:43:508 -> WSASend 'MAKE_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:52:529 -> Client Connect Success, IP : 127.0.0.1, Port : 1382
+[ Server ]  TIME : 2018.05.02 - 02:49:52:529 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:49:52:529 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:00:123 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:50:00:123 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:00:138 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:50:00:139 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:08:126 -> Client Connect Success, IP : 127.0.0.1, Port : 1395
+[ Server ]  TIME : 2018.05.02 - 02:50:08:126 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:08:126 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:12:749 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:50:12:750 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:12:763 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:50:12:763 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:20:842 -> Client Connect Success, IP : 127.0.0.1, Port : 1407
+[ Server ]  TIME : 2018.05.02 - 02:50:20:842 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:20:842 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:25:677 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:50:25:677 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:50:25:695 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:50:25:695 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:04:157 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:51:04:157 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:04:169 -> 'Another Make Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:04:170 -> WSASend 'ANOTHER_MAKE_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:09:082 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:09:082 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:09:096 -> 'Join Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:09:096 -> WSASend 'JOIN_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:09:101 -> 'Another Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:09:101 -> WSASend 'ANOTHER_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:09:107 -> 'Already Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:09:107 -> WSASend 'ALREADY_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:12:219 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:12:219 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:12:230 -> 'Join Room Fail' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:12:231 -> WSASend 'JOIN_ROOM_FAIL' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:19:029 -> 'Game Start Request' WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:19:029 -> WSARecv 'GAME_START_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:19:033 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:19:033 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:19:038 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:19:038 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:21:497 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:21:497 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:21:504 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:21:504 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:24:191 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:24:191 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:24:199 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:24:199 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:25:309 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:25:309 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:25:318 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:25:318 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:33:617 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:33:617 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:33:619 -> 'Join Room Fail' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:33:620 -> WSASend 'JOIN_ROOM_FAIL' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:37:266 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:37:266 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:37:268 -> 'Join Room Fail' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:37:268 -> WSASend 'JOIN_ROOM_FAIL' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:44:063 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:51:44:063 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:44:066 -> 'Make Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:44:066 -> WSASend 'MAKE_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:50:210 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:51:50:211 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:50:213 -> 'Another Make Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:50:213 -> WSASend 'ANOTHER_MAKE_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:52:326 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:52:326 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:52:331 -> 'Join Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:52:331 -> WSASend 'JOIN_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:52:333 -> 'Another Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:52:334 -> WSASend 'ANOTHER_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:52:336 -> 'Already Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:52:336 -> WSASend 'ALREADY_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:55:574 -> 'Game Start Request' WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:55:574 -> WSARecv 'GAME_START_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:55:576 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:55:576 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:55:578 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:55:578 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:58:078 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:58:078 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:58:080 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:58:080 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:58:648 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:58:648 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:58:650 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:58:650 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:59:277 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:59:277 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:59:279 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:59:279 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:59:846 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:51:59:846 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:51:59:849 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:51:59:850 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:53:49:048 -> Client Connect Success, IP : 127.0.0.1, Port : 1462
+[ Server ]  TIME : 2018.05.02 - 02:53:49:048 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:53:49:048 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:53:54:041 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:53:54:042 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:53:54:051 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:53:54:051 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:02:366 -> Client Connect Success, IP : 127.0.0.1, Port : 1473
+[ Server ]  TIME : 2018.05.02 - 02:54:02:366 -> Client Connect IOCP Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:02:366 -> Asynchronous Overlapped I/O Start Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:04:952 -> 'Login Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:04:952 -> WSARecv 'LOGIN_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:04:962 -> 'Login Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:04:963 -> WSASend 'LOGIN_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:06:899 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:54:06:899 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:06:902 -> 'Make Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:06:902 -> WSASend 'MAKE_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:09:181 -> 'Make Room Request' Packet WSASRecv
+[ Server ]  TIME : 2018.05.02 - 02:54:09:181 -> WSARecv 'MAKE_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:09:184 -> 'Another Make Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:09:184 -> WSASend 'ANOTHER_MAKE_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:10:597 -> 'Join Room Request' Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:10:597 -> WSARecv 'JOIN_ROOM_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:10:603 -> 'Join Room Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:10:603 -> WSASend 'JOIN_ROOM_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:10:605 -> 'Another Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:10:605 -> WSASend 'ANOTHER_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:10:607 -> 'Already Join Room' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:10:607 -> WSASend 'ALREADY_JOIN_ROOM' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:13:078 -> 'Game Start Request' WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:13:078 -> WSARecv 'GAME_START_REQUEST' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:13:081 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:13:081 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:13:083 -> 'Game Start Success' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:13:083 -> WSASend 'GAME_START_SUCCESS' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:14:960 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:14:961 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:14:965 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:14:965 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:16:113 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:16:113 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:16:116 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:16:116 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:18:989 -> My Stone Put Packet WSARecv
+[ Server ]  TIME : 2018.05.02 - 02:54:18:989 -> WSARecv 'MY_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:18:991 -> 'Another Stone Put' Packet WSASend
+[ Server ]  TIME : 2018.05.02 - 02:54:18:991 -> WSASend 'ANOTHER_STONE_PUT' Packet Add Count Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:567 -> Accpet Failed
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> All Thread Destroy Success
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> DeleteSocket() Complete
+[ Server ]  TIME : 2018.05.02 - 02:54:24:864 -> Server Close Complete
